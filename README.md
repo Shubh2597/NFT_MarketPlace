@@ -29,7 +29,7 @@ Before running the app, make sure you have the following tools installed:
 1. Clone the repository to your local machine.
 
    ```
-   git clone [repository-url]
+   git clone [[repository-url](https://github.com/Shubh2597/NFT_MarketPlace)]
    ```
 
 2. Navigate to the project folder.
