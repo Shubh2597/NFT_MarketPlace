@@ -9,7 +9,7 @@ To view and interact with this app, you can either scan the QR code or paste the
 ![Capture](https://github.com/Shubh2597/NFT_MarketPlace/assets/115364772/e005cc58-3032-4849-ac6d-9d6e2d72b60e)
 
 
-**Expo Go Link:** [exp://u.expo.dev/update/e1f1c7a3-e285-436c-823c-4a914b2b1a6e]
+**Expo Go Link:** exp://u.expo.dev/update/e1f1c7a3-e285-436c-823c-4a914b2b1a6e
 
 ### Prerequisites
 
