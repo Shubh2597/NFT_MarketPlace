@@ -5,7 +5,8 @@ Welcome to the NFT Marketplace App built using React Native. This app allows use
 ## Installation and Usage
 
 To view and interact with this app, you can either scan the QR code or paste the link below into the Expo Go App: 
-![CryptoMarketPlace](https://github.com/Shubh2597/NFT_MarketPlace/assets/115364772/34731efd-6160-4b00-bcf3-cfff793ea965)
+
+![Capture](https://github.com/Shubh2597/NFT_MarketPlace/assets/115364772/e005cc58-3032-4849-ac6d-9d6e2d72b60e)
 
 
 **Expo Go Link:** [exp://u.expo.dev/update/e1f1c7a3-e285-436c-823c-4a914b2b1a6e]
