@@ -53,13 +53,13 @@ Before running the app, make sure you have the following tools installed:
 5. Scan the QR code displayed in your terminal with the Expo Go App on your mobile device.
 
 ## Screenshots
-![Screenshot_2023_0917_130813](https://github.com/Shubh2597/NFT_MarketPlace/assets/115364772/85b7e8e1-9aea-47fc-9b12-fb62c4f57c2d)
+![RN1](https://github.com/Shubh2597/NFT_MarketPlace/assets/115364772/b0305b95-d42e-44d0-9e63-91a2b2af5bd5)
 
 
-![Screenshot_20230917_130832](https://github.com/Shubh2597/NFT_MarketPlace/assets/115364772/c70f1a2c-1b50-42da-8774-9cbc41636de2)
+![RN2](https://github.com/Shubh2597/NFT_MarketPlace/assets/115364772/f064ff2a-103b-477d-bbf6-268b3ed39052)
 
+![RN3](https://github.com/Shubh2597/NFT_MarketPlace/assets/115364772/3e8a2f13-a1a8-4a3e-9ef0-16d5c11fcd45)
 
-![Screenshot_20230917_130856](https://github.com/Shubh2597/NFT_MarketPlace/assets/115364772/38c2102f-a756-4ca3-ba16-fb74fd42327e)
 
 
 ## Technologies Used
